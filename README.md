@@ -3,15 +3,15 @@
 
 ![](https://i.imgur.com/hzq1fEI.png)
 
-
+## ⁉ What is this
 This is a theme for Ueli app, and it is a color theme based on [Paper Windows Theme ](https://www.deviantart.com/niivu/art/Paper-for-Windows-10-881587608)by [niivu](https://www.deviantart.com/niivu) color palette.
-  ## 🛠 Installing instructions
-  <br>
-    you just need to install Ueli app at first for sure 😂:
+## 🛠 Installing instructions
+  
+   you just need to install Ueli app at first for sure 😂:
     <br>
     <br>
     <p align = center>
-    <a href=https://ueli.app/#> <img src="https://www.electronjs.org/images/app-img/ueli/ueli-icon-128.54369b300576c2e820353aafdd93bff7.png" width="35"> </a> &nbsp &nbsp &nbsp
+    <a href=https://ueli.app/#> <img src="https://www.electronjs.org/images/app-img/ueli/ueli-icon-128.54369b300576c2e820353aafdd93bff7.png" width="35"> </a>
     </p>
 
 
@@ -28,11 +28,13 @@ Download the file "Paper-ueli-color-theme.json" and open your Uile app go to the
 
 ⚜ And if you want to get an Paper cursor, here you can get it: [Paper-Cursor](https://www.deviantart.com/abod1960/art/Paper-Cursor-883799195).
 
-🍃 And if you are using one commander "just like me" then here is a paper theme for your one commander app: [One-Commander-Paper-Theme](https://www.deviantart.com/abod1960/art/One-Commander-Paper-Theme-883743096)
+🍃 And if you are using one commander "just like me" then here is a paper theme for your one commander app: [One-Commander-Paper-Theme](https://www.deviantart.com/abod1960/art/One-Commander-Paper-Theme-883743096).
 
-🚥 And here is a Dock icons with that paper look: [Paper-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787)
+🚥 And here is a Dock icons with that paper look: [Paper-Dock-Icons](https://www.deviantart.com/abod1960/art/Paper-Dock-Icons-883822787).
 
-🎴 And here is 45 wallpaper to complete your Paper setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203)
+🎴 And here is 45 wallpaper to complete your Paper setup: [PaperPack-Minimalist-Wallpapers](https://www.deviantart.com/abod1960/art/PaperPack-Minimalist-Wallpapers-883815203).
+
+🎨 And don't forget Google Chrome, here is a theme for chrome: [Paper-Chrome](https://github.com/Abod1960/Paper-Chrome).
 
 
 ## 👤 Author
