@@ -36,6 +36,8 @@ Download the file "Paper-ueli-color-theme.json" and open your Uile app go to the
 
 🎨 And don't forget Google Chrome, here is a theme for chrome: [Paper-Chrome](https://github.com/Abod1960/Paper-Chrome).
 
+▶ And I made a Paper theme for YouTube, here it is: [Paper-YT-Theme](https://github.com/Abod1960/Paper-YT-Theme).
+
 
 ## 👤 Author
 
